@@ -9,12 +9,12 @@ By
 
 # Anomaly Detection
 
-View [here](/AML_AnomalyDetection_G19.html)
+View [here](/eurecom-algorithmic-machine-learning/AML_AnomalyDetection_G19.html)
 
 # House Price Prediction
 
-View [here](/AML_HousePrice_G19.html)
+View [here](/eurecom-algorithmic-machine-learning/AML_HousePrice_G19.html)
 
 # Plankton
 
-View [here](/AML_Plankton_G19.html)
+View [here](/eurecom-algorithmic-machine-learning/AML_Plankton_G19.html)
