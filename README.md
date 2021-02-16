@@ -5,7 +5,7 @@ Projects at Eurecom
 
 By
 * DO Thi Duyen
-* TA Le Dang Khoa
+* LE Ta Dang Khoa
 
 # Anomaly Detection
 
